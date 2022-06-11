@@ -1,0 +1,41 @@
+.launchesPastContent {
+    background-color: rgba(0,0,0,1);
+    width: 100%;
+    max-height: 100%;
+    overflow-y: scroll;
+}
+.launchesPastItem1 {
+    margin: 20px auto;
+    background-color: rgba(85,85,85,0.3);
+    width: 80%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+}
+.title-success {
+    color: green;
+}
+.title-error {
+    color: red;
+}
+.left-title {
+    color: #999;
+}
+.launchesPast-title {
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.launchesPast-date {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.detail-button {
+    cursor: pointer;
+    color: #fff;
+    background: rgba(119,119,119,0.3);
+    padding: 10px;
+}

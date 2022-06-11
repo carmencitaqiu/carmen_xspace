@@ -1,0 +1,38 @@
+.launchesPast {
+    background-color: rgba(0,0,0,1);
+    width: 100%vw;
+    height: 100vh;
+}
+.wrapper {
+    margin: 20px 30px auto;
+}
+.detail-title {
+    font-size: 50px;
+    color: #999;
+    font-weight: bold;
+}
+.detail-subtitle {
+    margin: 20px 0;
+    font-size: 36px;
+    color: #FFF;
+}
+
+.launchesPastItem {
+    color: #999;
+    background-color: rgba(85,85,85,0.3);
+    width: 80%;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    margin: 0 auto;
+}
+
+.detail {
+    color: #999;
+    background-color: rgba(85,85,85,0.3);
+    width: 80%;
+    padding: 10px 30px;
+    margin: 0 auto;
+}
